@@ -1,5 +1,6 @@
 
 import './App.css'
+import Todos from './components/Todos'
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <>
       <div>
      <h1>React Redux App</h1>
+     <Todos></Todos>
       </div>
    
     </>
